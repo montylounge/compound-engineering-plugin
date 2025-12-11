@@ -1,5 +1,5 @@
 ---
-name: compound:plan
+name: ce:plan
 description: Transform feature descriptions into well-structured project plans following conventions
 argument-hint: "[feature description, bug report, or improvement idea]"
 ---
