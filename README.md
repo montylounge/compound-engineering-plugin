@@ -2,14 +2,14 @@
 
 A Claude Code plugin marketplace featuring the **Compound Engineering Plugin** — tools that make each unit of engineering work easier than the last.
 
-## Install
+## Claude Code Install
 
 ```bash
 /plugin marketplace add https://github.com/kieranklaassen/compound-engineering-plugin
 /plugin install compound-engineering
 ```
 
-## OpenCode + Codex support (experimental)
+## OpenCode + Codex support (experimental) Install
 
 This repo includes a Bun/TypeScript CLI that converts Claude Code plugins to OpenCode and Codex.
 
